@@ -1,0 +1,7 @@
+insert into tab (name,age) values (张飞，22)；
+delete from tab where age<22 and name=关羽;
+create table ${tablename} (name varchar,age int);
+update tab2 set age=[NULL]，name=刘备 where age=22 and name=关羽;
+alter table tab2 add num int;
+select math from t1 where name=张三;
+select tab3.id1,tab3.id2,tab4.id1,tab4.id2 from tab3,tab4 where tab3.id2=tab4.id2;
