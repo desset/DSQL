@@ -1,7 +1,7 @@
 # DSQL  
 一个java实现的关系型数据库，实现了创建表，插入数据，删除数据，查找数据，修改数据的功能。  
 sql语句的例子参照sql.txt  
-为了提高查找效率，规定每个.data文件最多存储20条数据，超过此限额会自动生成一个新的.data文件。  
+规定每个.data文件最多存储20条数据，超过此限额会自动生成一个新的.data文件。  
 1.插入  
 插入前：  
 ![1](https://github.com/desset/DSQL/blob/master/jietu/1.PNG)  
