@@ -19,7 +19,7 @@ sql语句的例子参照sql.txt
 ![1](https://github.com/desset/DSQL/blob/master/jietu/6.PNG)  
 创建的新表：  
 ![1](https://github.com/desset/DSQL/blob/master/jietu/7.PNG)  
-新表中的字段：  
+新表中的属性：  
 ![1](https://github.com/desset/DSQL/blob/master/jietu/8.PNG)  
 4.修改数据：  
 修改前：  
